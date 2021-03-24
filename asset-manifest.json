@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/monsters-rollodex-udemy/static/css/main.ce50f742.chunk.css",
+    "main.css": "/monsters-rollodex-udemy/static/css/main.582236aa.chunk.css",
     "main.js": "/monsters-rollodex-udemy/static/js/main.424b3462.chunk.js",
     "main.js.map": "/monsters-rollodex-udemy/static/js/main.424b3462.chunk.js.map",
     "runtime-main.js": "/monsters-rollodex-udemy/static/js/runtime-main.e8c38f8c.js",
@@ -10,13 +10,14 @@
     "static/js/3.9a50332c.chunk.js": "/monsters-rollodex-udemy/static/js/3.9a50332c.chunk.js",
     "static/js/3.9a50332c.chunk.js.map": "/monsters-rollodex-udemy/static/js/3.9a50332c.chunk.js.map",
     "index.html": "/monsters-rollodex-udemy/index.html",
-    "static/css/main.ce50f742.chunk.css.map": "/monsters-rollodex-udemy/static/css/main.ce50f742.chunk.css.map",
-    "static/js/2.f3ca6a53.chunk.js.LICENSE.txt": "/monsters-rollodex-udemy/static/js/2.f3ca6a53.chunk.js.LICENSE.txt"
+    "static/css/main.582236aa.chunk.css.map": "/monsters-rollodex-udemy/static/css/main.582236aa.chunk.css.map",
+    "static/js/2.f3ca6a53.chunk.js.LICENSE.txt": "/monsters-rollodex-udemy/static/js/2.f3ca6a53.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monsters-rollodex-udemy/static/media/OperatorMonoLig-Book.53fe36ec.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.e8c38f8c.js",
     "static/js/2.f3ca6a53.chunk.js",
-    "static/css/main.ce50f742.chunk.css",
+    "static/css/main.582236aa.chunk.css",
     "static/js/main.424b3462.chunk.js"
   ]
 }
